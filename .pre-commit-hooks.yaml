@@ -1,4 +1,4 @@
-- id: dotnet-format
+-   id: dotnet-format
     name: dotnet-format
     entry: dotnet format
     language: system
