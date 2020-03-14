@@ -1,5 +1,5 @@
 -   id: dotnet-format
     name: dotnet-format
-    entry: dotnet format
+    entry: dotnet format --files
     language: system
     files: '\.(cs|vb)$'
