@@ -3,3 +3,8 @@
     entry: dotnet format --files
     language: system
     files: '\.(cs|vb)$'
+-   id: dotnet-test
+    name: dotnet Unit test
+    entry: dotnet-test.sh
+    language: script
+    files: '\*Test.(cs|vb)$'
