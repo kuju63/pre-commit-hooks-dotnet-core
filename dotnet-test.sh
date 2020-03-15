@@ -9,6 +9,7 @@ do
                 exit 1
             fi
             PROJECT=$2
+            ;;
         *)
             shift 1
             ;;
