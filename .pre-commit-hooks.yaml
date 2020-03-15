@@ -7,4 +7,4 @@
     name: dotnet Unit test
     entry: dotnet-test.sh
     language: script
-    files: '\*Test.(cs|vb)$'
+    files: '\*.(cs|vb)$'
