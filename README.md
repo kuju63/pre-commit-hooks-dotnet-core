@@ -3,6 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Release](https://img.shields.io/github/release/KuriharaJun/pre-commit-hooks-dotnet-core.svg)](https://github.com/KuriharaJun/pre-commit-hooks-dotnet-core/releases/latest)
 
+**⚠️ Deprecated** dotnet-formart has [pre-commit hook configuration](https://github.com/dotnet/format/blob/0e9b2f2200b8d74ff98eb2998da446a9ab779286/.pre-commit-hooks.yaml)
+
 pre-commit-hooks for .NET Core is pre-commit hooks for protecting beauty code.
 
 These hooks are required `dotnet` and `dotnet-format`.
